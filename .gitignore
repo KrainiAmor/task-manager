@@ -1,0 +1,21 @@
+# === Backend Java ===
+/backend/target/
+/backend/.classpath
+/backend/.project
+/backend/.settings/
+/backend/.idea/
+/backend/*.iml
+/backend/.gradle/
+/backend/build/
+
+# === Frontend Angular ===
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.angular/cache/
+/frontend/.idea/
+/frontend/*.iml
+
+# === OS / éditeurs ===
+.DS_Store
+Thumbs.db
+.vscode/
